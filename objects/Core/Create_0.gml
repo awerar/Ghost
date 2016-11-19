@@ -1,2 +1,2 @@
 //Declare some global varibles
-global.cameraspeed = 4;
+cameraspeed = 4;

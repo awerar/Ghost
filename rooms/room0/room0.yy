@@ -70,7 +70,7 @@
     "layers": [
         {
             "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
-            "id": "45c64e00-edb7-4af6-87b4-f267dd7220d9",
+            "id": "0f905c50-75d3-4322-915c-5e67f6256a80",
             "modelName": "GMRAssetLayer",
             "mvc": "1.0",
             "depth": 0,
@@ -1518,8 +1518,8 @@
                     "colour": {
                         "Value": 4294967295
                     },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
+                    "creationCodeFile": "InstanceCreationCode_inst_40A72437.gml",
+                    "creationCodeType": ".gml",
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_40A72437",
                     "objId": "2e979932-e9e0-4118-a8fa-e65a7a5727a0",
