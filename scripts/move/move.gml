@@ -20,3 +20,5 @@ if (place_meeting(x, y+vspd, collision_object)) {
 	vspd = 0;
 }
 y +=vspd;
+
+//Testification
