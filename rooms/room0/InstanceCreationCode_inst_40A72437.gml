@@ -1,1 +1,1 @@
-items = []
+items = ["Silver Key", "Gold Key"]

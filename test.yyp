@@ -908,7 +908,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\\spr_key\\spr_key.yy",
+                "resourcePath": "sprites\\spr_key_silver\\spr_key_silver.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -932,9 +932,9 @@
             }
         },
         {
-            "Key": "a5250ac9-ac1f-4131-86ae-842c462de2f5",
+            "Key": "f82f8d75-2dbe-45c4-af91-6c63cb89e6b8",
             "Value": {
-                "id": "9ac3636c-8eef-4780-bc54-ca0528e1ac44",
+                "id": "a934f0e1-1c3a-4194-aec4-1210d6ee8fd5",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -946,8 +946,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\\Silver_key\\Silver_key.yy",
-                "resourceType": "GMObject"
+                "resourcePath": "sprites\\spr_key_gold\\spr_key_gold.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
