@@ -1,4 +1,3 @@
-
 //Get input
 var escape_released = keyboard_check_released(vk_escape);
 
@@ -13,4 +12,3 @@ if (array_length_1d(inst.items) > 0) {
 if (escape_released) {
 	state = player_move_state;
 }
-

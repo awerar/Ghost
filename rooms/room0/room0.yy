@@ -69,35 +69,11 @@
     ],
     "layers": [
         {
-            "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
-            "id": "0f905c50-75d3-4322-915c-5e67f6256a80",
-            "modelName": "GMRAssetLayer",
-            "mvc": "1.0",
-            "depth": 0,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "layers": [
-                
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "name": "GUI",
-            "userdefined_depth": false,
-            "visible": true,
-            "assets": [
-                
-            ]
-        },
-        {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "534fcaa7-ffc2-4739-9b25-972cbbf675fb",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 0,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -1392,7 +1368,7 @@
             "id": "d5042047-c21e-491e-9ac4-71b917261e31",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 200,
+            "depth": 100,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -1439,7 +1415,7 @@
             "id": "7e8de91d-ad4b-495b-b7a7-d045109b057b",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 300,
+            "depth": 200,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -1534,7 +1510,7 @@
             "id": "8d2dea84-6603-4af0-8907-4a49bc550f6c",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 400,
+            "depth": 300,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,

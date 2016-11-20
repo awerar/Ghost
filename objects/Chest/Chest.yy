@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Chest",
     "eventList": [
-        
+        {
+            "id": "bb889f7d-f2c3-4817-84a0-34d78c5e141d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "2e979932-e9e0-4118-a8fa-e65a7a5727a0"
+        }
     ],
     "maskSpriteId": "4272301f-703d-44c6-b098-145549c42c79",
     "parentObjectId": "05441bb2-26f2-4b40-ad10-0100423c381c",

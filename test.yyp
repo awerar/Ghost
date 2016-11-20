@@ -873,6 +873,82 @@
                 "resourcePath": "sprites\\spr_GUI_chest\\spr_GUI_chest.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "c691a632-8f68-4d59-bda6-d668a111ea25",
+            "Value": {
+                "id": "7b6e3a68-06b3-43df-8b78-ec0e1a666ffd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\\c691a632-8f68-4d59-bda6-d668a111ea25.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9d037ed-c4cb-4ead-8f07-44dd781c4e16",
+            "Value": {
+                "id": "d0ee9e34-b06d-4a64-8706-bc31bd1815b5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\spr_key\\spr_key.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c6ee94eb-3b92-4bb1-b648-8818f9441eae",
+            "Value": {
+                "id": "eb5d6f94-8bba-42a8-80f1-ce769956372f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\\c6ee94eb-3b92-4bb1-b648-8818f9441eae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5250ac9-ac1f-4131-86ae-842c462de2f5",
+            "Value": {
+                "id": "9ac3636c-8eef-4780-bc54-ca0528e1ac44",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\Silver_key\\Silver_key.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [
