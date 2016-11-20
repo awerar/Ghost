@@ -25,7 +25,7 @@ switch (state) {
 					
 				}
 				//Draw the item
-				draw_sprite_ext(obj_to_draw, 0, view_wport[0]/2 + (i-2)*(38*scale), view_hport[0]/2, scale, scale, 0, c_white, 1);
+				draw_sprite_ext(obj_to_draw, 0, view_wport[0]/2 + (i-2)*(38*scale), view_hport[0]/2, scale-0.2, scale-0.2, 0, c_white, 1);
 			}
 		}
 	break;
