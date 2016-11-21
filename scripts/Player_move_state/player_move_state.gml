@@ -23,10 +23,9 @@ if (!place_meeting(x, y+1, Solid)) {
 	}	
 }
 
-//Check if the player is opening something
-if (space_pressed and place_meeting(x,y, Openable)) {
-	state = player_open_state;
-	inst = instance_place(x, y, Chest);
+//Make sure we're facing the right direction
+if (hspd != 0) {
+	image_xscale = sign(hspd);
 }
 
 //Move
