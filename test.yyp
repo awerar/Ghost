@@ -949,6 +949,82 @@
                 "resourcePath": "sprites\\spr_key_gold\\spr_key_gold.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "389934f2-7952-4a3b-9806-cf7fc73c6ec6",
+            "Value": {
+                "id": "4fd078c3-d207-4304-8d67-4fd01564f66a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\\389934f2-7952-4a3b-9806-cf7fc73c6ec6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1caa5a0-f422-4368-9837-0c911074176a",
+            "Value": {
+                "id": "7d4b16a2-afc1-4302-bd68-fffec0806852",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\Draw_GUI\\Draw_GUI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "00257443-87bc-44f7-9180-288498666cc0",
+            "Value": {
+                "id": "1ac26640-a3d0-43e6-a98f-ebe4c29442c3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\\00257443-87bc-44f7-9180-288498666cc0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3959133d-72de-4caf-b4f7-44a24e102622",
+            "Value": {
+                "id": "92b02299-a4b4-4710-80a8-325dcd91cdb6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\draw_GUI_chest\\draw_GUI_chest.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "room_order": [
@@ -957,7 +1033,8 @@
     "script_order": [
         "1eab19bc-220b-42fa-a390-23a60ed5289a",
         "71ffb9a8-8d62-441a-b0bb-d264f9a0b34a",
-        "a8d1d5b6-dd82-40d0-85b7-485535565de1"
+        "a8d1d5b6-dd82-40d0-85b7-485535565de1",
+        "3959133d-72de-4caf-b4f7-44a24e102622"
     ],
     "tutorial": ""
 }

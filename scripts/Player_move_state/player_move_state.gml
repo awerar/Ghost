@@ -25,14 +25,14 @@ if (!place_meeting(x, y+1, Solid)) {
 
 //Check if the player is opening something
 if (space_pressed and place_meeting(x,y, Openable)) {
+	//Get the id of the opened object 
 	inst = instance_place(x, y, Openable);
+	
+	//Get the object name of the opened object
 	obj = inst.type;
-	//Decide what state to do
-	switch (obj) {
-		case "Chest":
-			state = player_open_state;
-		break;
-	}
+	
+	//Go to the open state
+	state = player_open_state;
 }
 
 //Move

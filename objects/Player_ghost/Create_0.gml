@@ -7,6 +7,3 @@ grav = 1.5;
 
 //Set the state
 state = player_move_state;
-
-//Set the GUI scale
-scale = 3.5;

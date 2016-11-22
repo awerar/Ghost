@@ -1,1 +1,1 @@
-items = ["Silver Key", "Silver Key", "none", "Gold Key", "Silver Key"];
+items = ["Silver Key", "Silver Key", "", "Gold Key", "Silver Key"];
