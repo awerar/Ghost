@@ -4,6 +4,7 @@ var right = keyboard_check(vk_right) or keyboard_check(ord("D"));
 var down = keyboard_check(vk_down) or keyboard_check(ord("S"));
 var left = keyboard_check(vk_left) or keyboard_check(ord("A"));
 var space_pressed = keyboard_check_pressed(vk_space);
+var e_pressed = keyboard_check_pressed(ord("E"));
 
 //Make up negative if true
 left *=-1;
@@ -32,6 +33,15 @@ if (space_pressed and place_meeting(x,y, Openable)) {
 	obj = inst.type;
 	
 	//Go to the open state
+	state = player_open_state;
+}
+
+//Check if the player is opening inventory
+if (e_pressed) {
+	//Make the "object" opening inventory
+	obj = "Inventory";
+	
+	//Set the state to player_open_state
 	state = player_open_state;
 }
 

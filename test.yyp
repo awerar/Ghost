@@ -1025,6 +1025,120 @@
                 "resourcePath": "scripts\\draw_GUI_chest\\draw_GUI_chest.yy",
                 "resourceType": "GMScript"
             }
+        },
+        {
+            "Key": "1eb9887f-4bd6-482e-802d-a01f2856aa48",
+            "Value": {
+                "id": "919f08ad-7012-4475-a1d7-b3b1fc1922c8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\draw_GUI_hotbar\\draw_GUI_hotbar.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e7de0e85-628d-447a-afab-c639274eca95",
+            "Value": {
+                "id": "e524b5f6-0ad6-4a74-81bf-fbb562deb1a1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\draw_GUI_inventory\\draw_GUI_inventory.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "62dc13ef-a54d-49eb-a5c8-09750d01aa18",
+            "Value": {
+                "id": "dae00b35-b38f-48b0-a2ac-5b7086476659",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\spr_GUI_hotbar_frame\\spr_GUI_hotbar_frame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4f1f7860-ba24-4356-9c29-e5d9e87a2cdf",
+            "Value": {
+                "id": "0e4c5193-3721-4a3e-b195-cbf94dce92de",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\spr_GUI_hotbar_center\\spr_GUI_hotbar_center.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "236a7ea1-6f64-43db-a5c5-77c3e6cc7761",
+            "Value": {
+                "id": "adda74e9-43c3-4630-92e9-5112134a8835",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\draw_GUI_hotbar_idle\\draw_GUI_hotbar_idle.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "376b4ddf-8570-44f1-a684-509b8b04e5d3",
+            "Value": {
+                "id": "5972743e-5939-4564-b9cc-0940490b03c8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\draw_item\\draw_item.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "room_order": [
@@ -1032,9 +1146,13 @@
     ],
     "script_order": [
         "1eab19bc-220b-42fa-a390-23a60ed5289a",
+        "376b4ddf-8570-44f1-a684-509b8b04e5d3",
         "71ffb9a8-8d62-441a-b0bb-d264f9a0b34a",
         "a8d1d5b6-dd82-40d0-85b7-485535565de1",
-        "3959133d-72de-4caf-b4f7-44a24e102622"
+        "3959133d-72de-4caf-b4f7-44a24e102622",
+        "1eb9887f-4bd6-482e-802d-a01f2856aa48",
+        "e7de0e85-628d-447a-afab-c639274eca95",
+        "236a7ea1-6f64-43db-a5c5-77c3e6cc7761"
     ],
     "tutorial": ""
 }
