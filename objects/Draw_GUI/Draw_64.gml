@@ -6,9 +6,5 @@ if (Player_ghost.state = player_open_state) {
 	draw_GUI_inventory();
 }
 
-//If the player not is opening anything, display hotbar
-if (Player_ghost.state != player_open_state) {
-	draw_GUI_hotbar();
-} else {
-	draw_GUI_hotbar_idle();
-}
+//Draw the hotbar
+draw_GUI_hotbar();

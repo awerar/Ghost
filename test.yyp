@@ -1027,9 +1027,9 @@
             }
         },
         {
-            "Key": "1eb9887f-4bd6-482e-802d-a01f2856aa48",
+            "Key": "c357f63e-9c19-4250-9513-48723a3faf6e",
             "Value": {
-                "id": "919f08ad-7012-4475-a1d7-b3b1fc1922c8",
+                "id": "7cf755cf-49cd-47dd-9596-76b9e7b52239",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -1041,7 +1041,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\\draw_GUI_hotbar\\draw_GUI_hotbar.yy",
+                "resourcePath": "scripts\\move_bounce\\move_bounce.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1117,7 +1117,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\\draw_GUI_hotbar_idle\\draw_GUI_hotbar_idle.yy",
+                "resourcePath": "scripts\\draw_GUI_hotbar\\draw_GUI_hotbar.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1139,6 +1139,25 @@
                 "resourcePath": "scripts\\draw_item\\draw_item.yy",
                 "resourceType": "GMScript"
             }
+        },
+        {
+            "Key": "293d03be-86ff-4883-b356-7aeaca8a6f79",
+            "Value": {
+                "id": "545a2dec-0e51-4593-98cf-f965d93e755c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\spr_missing_texture\\spr_missing_texture.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "room_order": [
@@ -1147,10 +1166,10 @@
     "script_order": [
         "1eab19bc-220b-42fa-a390-23a60ed5289a",
         "376b4ddf-8570-44f1-a684-509b8b04e5d3",
+        "c357f63e-9c19-4250-9513-48723a3faf6e",
         "71ffb9a8-8d62-441a-b0bb-d264f9a0b34a",
         "a8d1d5b6-dd82-40d0-85b7-485535565de1",
         "3959133d-72de-4caf-b4f7-44a24e102622",
-        "1eb9887f-4bd6-482e-802d-a01f2856aa48",
         "e7de0e85-628d-447a-afab-c639274eca95",
         "236a7ea1-6f64-43db-a5c5-77c3e6cc7761"
     ],

@@ -15,7 +15,7 @@ hspd = (left + right) * move_spd;
 //If the player is in the air
 if (!place_meeting(x, y+1, Solid)) {
 	//Apply gravity
-	vspd += grav;
+	vspd += global.grav;
 } else {
 	//Check for up key pressed
 	if (up) {

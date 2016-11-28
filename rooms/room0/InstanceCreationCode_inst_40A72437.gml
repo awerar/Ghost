@@ -1,1 +1,1 @@
-items = ["Silver Key", "Gold Key"]
+items = ["Silver Key", "Gold Key", "Iron Key"]
